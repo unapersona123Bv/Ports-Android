@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-85,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				150
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Attack instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				151
+			],
+			"anim": "attack2",
+			"fps": 24,
+			"name": "Attack instance 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN copy 2 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP copy 2 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT copy 2 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT copy 2 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT copy 2 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT copy 2 instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Ouch instance 1"
+		},
+		{
+			"offsets": [
+				-21,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN copy 2 instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				60
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP copy 2 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				13
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/BoyFriend_3rdPhase",
+	"position": [
+		-50,
+		480
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		500,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
