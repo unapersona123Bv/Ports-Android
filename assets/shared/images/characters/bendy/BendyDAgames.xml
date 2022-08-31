@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BendyDAgames.png">
+	
+	
+	
+	
+	
+	<SubTexture name="Down Normal instance 10000" x="1192" y="0" width="183" height="174" frameX="0" frameY="-29" frameWidth="189" frameHeight="204" />
+	
+	
+	<SubTexture name="Down Normal instance 10001" x="1192" y="174" width="174" height="186" frameX="-5" frameY="-18" frameWidth="189" frameHeight="204" />
+	
+	
+	<SubTexture name="Down Normal instance 10002" x="1367" y="174" width="172" height="187" frameX="-7" frameY="-17" frameWidth="189" frameHeight="204" />
+	<SubTexture name="Down Normal instance 10003" x="1367" y="174" width="172" height="187" frameX="-7" frameY="-17" frameWidth="189" frameHeight="204" />
+	
+	
+	<SubTexture name="Down Normal instance 10004" x="0" y="361" width="166" height="191" frameX="-16" frameY="-12" frameWidth="189" frameHeight="204" />
+	<SubTexture name="Down Normal instance 10005" x="0" y="361" width="166" height="191" frameX="-16" frameY="-12" frameWidth="189" frameHeight="204" />
+	<SubTexture name="Down Normal instance 10006" x="0" y="361" width="166" height="191" frameX="-16" frameY="-12" frameWidth="189" frameHeight="204" />
+	<SubTexture name="Down Normal instance 10007" x="0" y="361" width="166" height="191" frameX="-16" frameY="-12" frameWidth="189" frameHeight="204" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Down Oblivion instance 10000" x="166" y="360" width="241" height="204" frameX="0" frameY="-40" frameWidth="241" frameHeight="246" />
+	
+	
+	<SubTexture name="Down Oblivion instance 10001" x="407" y="360" width="221" height="218" frameX="-9" frameY="-29" frameWidth="241" frameHeight="246" />
+	
+	
+	<SubTexture name="Down Oblivion instance 10002" x="628" y="360" width="221" height="218" frameX="-9" frameY="-28" frameWidth="241" frameHeight="246" />
+	<SubTexture name="Down Oblivion instance 10003" x="628" y="360" width="221" height="218" frameX="-9" frameY="-28" frameWidth="241" frameHeight="246" />
+	<SubTexture name="Down Oblivion instance 10004" x="628" y="360" width="221" height="218" frameX="-9" frameY="-28" frameWidth="241" frameHeight="246" />
+	<SubTexture name="Down Oblivion instance 10005" x="628" y="360" width="221" height="218" frameX="-9" frameY="-28" frameWidth="241" frameHeight="246" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Idle Normal instance 10000" x="850" y="361" width="117" height="204" frameX="0" frameY="-19" frameWidth="117" frameHeight="223" />
+	<SubTexture name="Idle Normal instance 10001" x="850" y="361" width="117" height="204" frameX="0" frameY="-19" frameWidth="117" frameHeight="223" />
+	
+	
+	<SubTexture name="Idle Normal instance 10002" x="1075" y="361" width="113" height="213" frameX="-2" frameY="-10" frameWidth="117" frameHeight="223" />
+	<SubTexture name="Idle Normal instance 10003" x="1075" y="361" width="113" height="213" frameX="-2" frameY="-10" frameWidth="117" frameHeight="223" />
+	
+	
+	<SubTexture name="Idle Normal instance 10004" x="1188" y="361" width="112" height="215" frameX="-3" frameY="-9" frameWidth="117" frameHeight="223" />
+	<SubTexture name="Idle Normal instance 10005" x="1188" y="361" width="112" height="215" frameX="-3" frameY="-9" frameWidth="117" frameHeight="223" />
+	
+	
+	<SubTexture name="Idle Normal instance 10006" x="1300" y="361" width="109" height="220" frameX="-4" frameY="-4" frameWidth="117" frameHeight="223" />
+	
+	
+	<SubTexture name="Idle Normal instance 10007" x="1410" y="361" width="108" height="223" frameX="-5" frameY="0" frameWidth="117" frameHeight="223" />
+	
+	
+	<SubTexture name="Idle Normal instance 10008" x="0" y="585" width="108" height="223" frameX="-5" frameY="0" frameWidth="117" frameHeight="223" />
+	
+	
+	<SubTexture name="Idle Normal instance 10009" x="108" y="585" width="108" height="223" frameX="-5" frameY="-1" frameWidth="117" frameHeight="223" />
+	
+	
+	<SubTexture name="Idle Normal instance 10010" x="967" y="361" width="108" height="221" frameX="-5" frameY="-3" frameWidth="117" frameHeight="223" />
+	<SubTexture name="Idle Normal instance 10011" x="967" y="361" width="108" height="221" frameX="-5" frameY="-3" frameWidth="117" frameHeight="223" />
+	<SubTexture name="Idle Normal instance 10012" x="967" y="361" width="108" height="221" frameX="-5" frameY="-3" frameWidth="117" frameHeight="223" />
+	<SubTexture name="Idle Normal instance 10013" x="967" y="361" width="108" height="221" frameX="-5" frameY="-3" frameWidth="117" frameHeight="223" />
+	<SubTexture name="Idle Normal instance 10014" x="967" y="361" width="108" height="221" frameX="-5" frameY="-3" frameWidth="117" frameHeight="223" />
+	<SubTexture name="Idle Normal instance 10015" x="967" y="361" width="108" height="221" frameX="-5" frameY="-3" frameWidth="117" frameHeight="223" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Left Oblivion instance 10000" x="1085" y="585" width="259" height="215" frameX="0" frameY="-17" frameWidth="281" frameHeight="249" />
+	
+	
+	<SubTexture name="Left Oblivion instance 10001" x="216" y="800" width="240" height="238" frameX="-20" frameY="-6" frameWidth="281" frameHeight="249" />
+	
+	
+	<SubTexture name="Left Oblivion instance 10002" x="456" y="800" width="241" height="239" frameX="-20" frameY="-6" frameWidth="281" frameHeight="249" />
+	<SubTexture name="Left Oblivion instance 10003" x="456" y="800" width="241" height="239" frameX="-20" frameY="-6" frameWidth="281" frameHeight="249" />
+	<SubTexture name="Left Oblivion instance 10004" x="456" y="800" width="241" height="239" frameX="-20" frameY="-6" frameWidth="281" frameHeight="249" />
+	<SubTexture name="Left Oblivion instance 10005" x="456" y="800" width="241" height="239" frameX="-20" frameY="-6" frameWidth="281" frameHeight="249" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Left instance 10000" x="216" y="585" width="227" height="195" frameX="0" frameY="-14" frameWidth="229" frameHeight="209" />
+	
+	
+	<SubTexture name="Left instance 10001" x="443" y="585" width="216" height="201" frameX="-13" frameY="-7" frameWidth="229" frameHeight="209" />
+	<SubTexture name="Left instance 10002" x="443" y="585" width="216" height="201" frameX="-13" frameY="-7" frameWidth="229" frameHeight="209" />
+	
+	
+	<SubTexture name="Left instance 10003" x="659" y="585" width="214" height="203" frameX="-16" frameY="-6" frameWidth="229" frameHeight="209" />
+	<SubTexture name="Left instance 10004" x="659" y="585" width="214" height="203" frameX="-16" frameY="-6" frameWidth="229" frameHeight="209" />
+	
+	
+	<SubTexture name="Left instance 10005" x="873" y="585" width="212" height="203" frameX="-17" frameY="-6" frameWidth="229" frameHeight="209" />
+	<SubTexture name="Left instance 10006" x="873" y="585" width="212" height="203" frameX="-17" frameY="-6" frameWidth="229" frameHeight="209" />
+	<SubTexture name="Left instance 10007" x="873" y="585" width="212" height="203" frameX="-17" frameY="-6" frameWidth="229" frameHeight="209" />
+	<SubTexture name="Left instance 10008" x="873" y="585" width="212" height="203" frameX="-17" frameY="-6" frameWidth="229" frameHeight="209" />
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10000" x="697" y="800" width="263" height="267" frameX="0" frameY="0" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10001" x="697" y="800" width="263" height="267" frameX="0" frameY="0" frameWidth="263" frameHeight="271" />
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10002" x="0" y="1069" width="262" height="268" frameX="-1" frameY="0" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10003" x="0" y="1069" width="262" height="268" frameX="-1" frameY="0" frameWidth="263" frameHeight="271" />
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10004" x="766" y="1069" width="262" height="267" frameX="-1" frameY="-1" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10005" x="766" y="1069" width="262" height="267" frameX="-1" frameY="-1" frameWidth="263" frameHeight="271" />
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10006" x="1028" y="1069" width="260" height="268" frameX="-3" frameY="-1" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10007" x="1028" y="1069" width="260" height="268" frameX="-3" frameY="-1" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10008" x="1028" y="1069" width="260" height="268" frameX="-3" frameY="-1" frameWidth="263" frameHeight="271" />
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10009" x="1539" y="0" width="258" height="268" frameX="-5" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10010" x="1539" y="0" width="258" height="268" frameX="-5" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10011" x="1539" y="0" width="258" height="268" frameX="-5" frameY="-2" frameWidth="263" frameHeight="271" />
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10012" x="960" y="800" width="255" height="268" frameX="-7" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10013" x="960" y="800" width="255" height="268" frameX="-7" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10014" x="960" y="800" width="255" height="268" frameX="-7" frameY="-2" frameWidth="263" frameHeight="271" />
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10015" x="1216" y="800" width="253" height="269" frameX="-8" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10016" x="1216" y="800" width="253" height="269" frameX="-8" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10017" x="1216" y="800" width="253" height="269" frameX="-8" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10018" x="1216" y="800" width="253" height="269" frameX="-8" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10019" x="1216" y="800" width="253" height="269" frameX="-8" frameY="-2" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10020" x="1216" y="800" width="253" height="269" frameX="-8" frameY="-2" frameWidth="263" frameHeight="271" />
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10021" x="262" y="1069" width="252" height="269" frameX="-9" frameY="-3" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10022" x="262" y="1069" width="252" height="269" frameX="-9" frameY="-3" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10023" x="262" y="1069" width="252" height="269" frameX="-9" frameY="-3" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10024" x="262" y="1069" width="252" height="269" frameX="-9" frameY="-3" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10025" x="262" y="1069" width="252" height="269" frameX="-9" frameY="-3" frameWidth="263" frameHeight="271" />
+	
+	
+	<SubTexture name="Oblivion Bendy instance 10026" x="514" y="1069" width="251" height="269" frameX="-10" frameY="-3" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10027" x="514" y="1069" width="251" height="269" frameX="-10" frameY="-3" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10028" x="514" y="1069" width="251" height="269" frameX="-10" frameY="-3" frameWidth="263" frameHeight="271" />
+	<SubTexture name="Oblivion Bendy instance 10029" x="514" y="1069" width="251" height="269" frameX="-10" frameY="-3" frameWidth="263" frameHeight="271" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Right Normal instance 10000" x="1539" y="268" width="236" height="188" frameX="-2" frameY="-22" frameWidth="238" frameHeight="210" />
+	
+	
+	<SubTexture name="Right Normal instance 10001" x="1518" y="456" width="224" height="195" frameX="-2" frameY="-15" frameWidth="238" frameHeight="210" />
+	<SubTexture name="Right Normal instance 10002" x="1518" y="456" width="224" height="195" frameX="-2" frameY="-15" frameWidth="238" frameHeight="210" />
+	
+	
+	<SubTexture name="Right Normal instance 10003" x="1469" y="652" width="224" height="195" frameX="-1" frameY="-15" frameWidth="238" frameHeight="210" />
+	<SubTexture name="Right Normal instance 10004" x="1469" y="652" width="224" height="195" frameX="-1" frameY="-15" frameWidth="238" frameHeight="210" />
+	
+	
+	<SubTexture name="Right Normal instance 10005" x="1469" y="847" width="224" height="195" frameX="0" frameY="-15" frameWidth="238" frameHeight="210" />
+	<SubTexture name="Right Normal instance 10006" x="1469" y="847" width="224" height="195" frameX="0" frameY="-15" frameWidth="238" frameHeight="210" />
+	
+	
+	<SubTexture name="Right Normal instance 10007" x="1469" y="1043" width="224" height="195" frameX="0" frameY="-15" frameWidth="238" frameHeight="210" />
+	<SubTexture name="Right Normal instance 10008" x="1469" y="1043" width="224" height="195" frameX="0" frameY="-15" frameWidth="238" frameHeight="210" />
+	<SubTexture name="Right Normal instance 10009" x="1469" y="1043" width="224" height="195" frameX="0" frameY="-15" frameWidth="238" frameHeight="210" />
+	<SubTexture name="Right Normal instance 10010" x="1469" y="1043" width="224" height="195" frameX="0" frameY="-15" frameWidth="238" frameHeight="210" />
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Right Oblivion instance 10000" x="1288" y="1238" width="273" height="218" frameX="-26" frameY="-35" frameWidth="299" frameHeight="258" />
+	
+	
+	<SubTexture name="Right Oblivion instance 10001" x="0" y="1456" width="253" height="230" frameX="-33" frameY="-28" frameWidth="299" frameHeight="258" />
+	<SubTexture name="Right Oblivion instance 10002" x="0" y="1456" width="253" height="230" frameX="-33" frameY="-28" frameWidth="299" frameHeight="258" />
+	
+	
+	<SubTexture name="Right Oblivion instance 10003" x="253" y="1456" width="251" height="232" frameX="-29" frameY="-25" frameWidth="299" frameHeight="258" />
+	<SubTexture name="Right Oblivion instance 10004" x="253" y="1456" width="251" height="232" frameX="-29" frameY="-25" frameWidth="299" frameHeight="258" />
+	<SubTexture name="Right Oblivion instance 10005" x="253" y="1456" width="251" height="232" frameX="-29" frameY="-25" frameWidth="299" frameHeight="258" />
+	<SubTexture name="Right Oblivion instance 10006" x="253" y="1456" width="251" height="232" frameX="-29" frameY="-25" frameWidth="299" frameHeight="258" />
+	<SubTexture name="Right Oblivion instance 10007" x="253" y="1456" width="251" height="232" frameX="-29" frameY="-25" frameWidth="299" frameHeight="258" />
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Transformation instance 10000" x="0" y="0" width="112" height="213" frameX="0" frameY="0" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10001" x="0" y="0" width="112" height="213" frameX="0" frameY="0" frameWidth="114" frameHeight="213" />
+	
+	
+	<SubTexture name="Transformation instance 10002" x="328" y="0" width="108" height="212" frameX="-4" frameY="-2" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10003" x="328" y="0" width="108" height="212" frameX="-4" frameY="-2" frameWidth="114" frameHeight="213" />
+	
+	
+	<SubTexture name="Transformation instance 10004" x="544" y="0" width="108" height="210" frameX="-4" frameY="-3" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10005" x="544" y="0" width="108" height="210" frameX="-4" frameY="-3" frameWidth="114" frameHeight="213" />
+	
+	
+	<SubTexture name="Transformation instance 10006" x="976" y="0" width="108" height="209" frameX="-4" frameY="-4" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10007" x="976" y="0" width="108" height="209" frameX="-4" frameY="-4" frameWidth="114" frameHeight="213" />
+	
+	
+	<SubTexture name="Transformation instance 10008" x="1084" y="0" width="108" height="208" frameX="-5" frameY="-6" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10009" x="1084" y="0" width="108" height="208" frameX="-5" frameY="-6" frameWidth="114" frameHeight="213" />
+	
+	
+	<SubTexture name="Transformation instance 10010" x="112" y="0" width="108" height="207" frameX="-5" frameY="-7" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10011" x="112" y="0" width="108" height="207" frameX="-5" frameY="-7" frameWidth="114" frameHeight="213" />
+	
+	
+	
+	
+	<SubTexture name="Transformation instance 10012" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10013" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10014" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10015" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10016" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10017" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10018" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10019" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10020" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10021" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10022" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10023" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10024" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10025" x="220" y="0" width="108" height="206" frameX="-5" frameY="-8" frameWidth="114" frameHeight="213" />
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Transformation instance 10026" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10027" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10028" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10029" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10030" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10031" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10032" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10033" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10034" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10035" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10036" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10037" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10038" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10039" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10040" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10041" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10042" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10043" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10044" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10045" x="436" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	
+	
+	<SubTexture name="Transformation instance 10046" x="652" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	
+	
+	<SubTexture name="Transformation instance 10047" x="760" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	
+	
+	<SubTexture name="Transformation instance 10048" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10049" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10050" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10051" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10052" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10053" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10054" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10055" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10056" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10057" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10058" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10059" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10060" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10061" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10062" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10063" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10064" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	<SubTexture name="Transformation instance 10065" x="868" y="0" width="108" height="201" frameX="-7" frameY="-13" frameWidth="114" frameHeight="213" />
+	
+	
+	
+	
+	
+	<SubTexture name="Up Normal instance 10000" x="1561" y="1238" width="187" height="253" frameX="-5" frameY="0" frameWidth="192" frameHeight="254" />
+	
+	
+	<SubTexture name="Up Normal instance 10001" x="505" y="1492" width="188" height="244" frameX="0" frameY="-9" frameWidth="192" frameHeight="254" />
+	<SubTexture name="Up Normal instance 10002" x="505" y="1492" width="188" height="244" frameX="0" frameY="-9" frameWidth="192" frameHeight="254" />
+	
+	
+	<SubTexture name="Up Normal instance 10003" x="693" y="1492" width="186" height="243" frameX="-2" frameY="-10" frameWidth="192" frameHeight="254" />
+	<SubTexture name="Up Normal instance 10004" x="693" y="1492" width="186" height="243" frameX="-2" frameY="-10" frameWidth="192" frameHeight="254" />
+	<SubTexture name="Up Normal instance 10005" x="693" y="1492" width="186" height="243" frameX="-2" frameY="-10" frameWidth="192" frameHeight="254" />
+	<SubTexture name="Up Normal instance 10006" x="693" y="1492" width="186" height="243" frameX="-2" frameY="-10" frameWidth="192" frameHeight="254" />
+	<SubTexture name="Up Normal instance 10007" x="693" y="1492" width="186" height="243" frameX="-2" frameY="-10" frameWidth="192" frameHeight="254" />
+	<SubTexture name="Up Normal instance 10008" x="693" y="1492" width="186" height="243" frameX="-2" frameY="-10" frameWidth="192" frameHeight="254" />
+	<SubTexture name="Up Normal instance 10009" x="693" y="1492" width="186" height="243" frameX="-2" frameY="-10" frameWidth="192" frameHeight="254" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Up Oblivion instance 10000" x="879" y="1492" width="183" height="295" frameX="-10" frameY="0" frameWidth="196" frameHeight="295" />
+	
+	
+	<SubTexture name="Up Oblivion instance 10001" x="1062" y="1492" width="187" height="277" frameX="-6" frameY="-11" frameWidth="196" frameHeight="295" />
+	
+	
+	<SubTexture name="Up Oblivion instance 10002" x="1249" y="1492" width="187" height="277" frameX="-6" frameY="-11" frameWidth="196" frameHeight="295" />
+	<SubTexture name="Up Oblivion instance 10003" x="1249" y="1492" width="187" height="277" frameX="-6" frameY="-11" frameWidth="196" frameHeight="295" />
+	<SubTexture name="Up Oblivion instance 10004" x="1249" y="1492" width="187" height="277" frameX="-6" frameY="-11" frameWidth="196" frameHeight="295" />
+	
+	
+	
+	
+	
+	
+	
+	
+</TextureAtlas>
