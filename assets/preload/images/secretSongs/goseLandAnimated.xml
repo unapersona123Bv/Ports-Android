@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goseLandAnimated.png">
+	
+	
+	<SubTexture name="BG instance 10000" x="0" y="0" width="1082" height="626" />
+	<SubTexture name="BG instance 10001" x="0" y="0" width="1082" height="626" />
+	<SubTexture name="BG instance 10002" x="1082" y="0" width="1082" height="626" />
+	<SubTexture name="BG instance 10003" x="1082" y="0" width="1082" height="626" />
+	<SubTexture name="BG instance 10004" x="2165" y="0" width="1082" height="626" />
+	<SubTexture name="BG instance 10005" x="2165" y="0" width="1082" height="626" />
+	<SubTexture name="BG instance 10006" x="0" y="626" width="1082" height="626" />
+	<SubTexture name="BG instance 10007" x="0" y="626" width="1082" height="626" />
+	<SubTexture name="BG instance 10008" x="1082" y="626" width="1082" height="626" />
+	<SubTexture name="BG instance 10009" x="1082" y="626" width="1082" height="626" />
+	<SubTexture name="BG instance 10010" x="2165" y="626" width="1082" height="626" />
+	<SubTexture name="BG instance 10011" x="0" y="1252" width="1082" height="626" />
+	<SubTexture name="BG instance 10012" x="0" y="1252" width="1082" height="626" />
+	<SubTexture name="BG instance 10013" x="0" y="1252" width="1082" height="626" />
+	<SubTexture name="BG instance 10014" x="0" y="1252" width="1082" height="626" />
+</TextureAtlas>
