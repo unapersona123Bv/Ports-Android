@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Devil Intro.png">
+	
+	
+	<SubTexture name="Intro instance 10000" x="0" y="0" width="372" height="507" frameX="-79" frameY="-168" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10001" x="0" y="0" width="372" height="507" frameX="-79" frameY="-168" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10002" x="0" y="0" width="372" height="507" frameX="-79" frameY="-168" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10003" x="0" y="0" width="372" height="507" frameX="-79" frameY="-168" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10004" x="0" y="0" width="372" height="507" frameX="-79" frameY="-168" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10005" x="0" y="0" width="372" height="507" frameX="-79" frameY="-168" frameWidth="727" frameHeight="719" />
+	
+	
+	
+	
+	<SubTexture name="Intro instance 10006" x="0" y="2618" width="450" height="420" frameX="-79" frameY="-255" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10007" x="844" y="2618" width="500" height="354" frameX="-91" frameY="-334" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10008" x="844" y="2618" width="500" height="354" frameX="-91" frameY="-334" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10009" x="844" y="2618" width="500" height="354" frameX="-91" frameY="-334" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10010" x="844" y="2618" width="500" height="354" frameX="-91" frameY="-334" frameWidth="727" frameHeight="719" />
+	
+	
+	
+	<SubTexture name="Intro instance 10011" x="372" y="0" width="544" height="351" frameX="-88" frameY="-337" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10012" x="916" y="0" width="544" height="351" frameX="-88" frameY="-337" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10013" x="1460" y="0" width="553" height="351" frameX="-87" frameY="-337" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10014" x="2013" y="0" width="553" height="351" frameX="-87" frameY="-337" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10015" x="2013" y="0" width="553" height="351" frameX="-87" frameY="-337" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10016" x="372" y="351" width="565" height="349" frameX="-87" frameY="-339" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10017" x="937" y="351" width="570" height="349" frameX="-87" frameY="-339" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10018" x="1507" y="351" width="570" height="349" frameX="-87" frameY="-339" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10019" x="1507" y="351" width="570" height="349" frameX="-87" frameY="-339" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10020" x="1507" y="351" width="570" height="349" frameX="-87" frameY="-339" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10021" x="1507" y="351" width="570" height="349" frameX="-87" frameY="-339" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10022" x="1507" y="351" width="570" height="349" frameX="-87" frameY="-339" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10023" x="1507" y="351" width="570" height="349" frameX="-87" frameY="-339" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10024" x="2077" y="351" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	
+	
+	
+	<SubTexture name="Intro instance 10025" x="2077" y="699" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10026" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10027" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10028" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10029" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10030" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10031" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10032" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10033" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10034" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10035" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10036" x="0" y="1047" width="578" height="348" frameX="-87" frameY="-340" frameWidth="727" frameHeight="719" />
+	
+	
+	
+	<SubTexture name="Intro instance 10037" x="578" y="1047" width="500" height="354" frameX="-91" frameY="-334" frameWidth="727" frameHeight="719" />
+	
+	
+	
+	<SubTexture name="Intro instance 10038" x="1078" y="1047" width="484" height="416" frameX="-67" frameY="-244" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10039" x="1078" y="1047" width="484" height="416" frameX="-67" frameY="-244" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10040" x="1562" y="1047" width="704" height="665" frameX="-3" frameY="-3" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10041" x="1344" y="2618" width="683" height="669" frameX="-3" frameY="0" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10042" x="0" y="1712" width="725" height="636" frameX="-2" frameY="-62" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10043" x="725" y="1712" width="695" height="538" frameX="-1" frameY="-130" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10044" x="1420" y="1712" width="685" height="616" frameX="-1" frameY="-52" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10045" x="2655" y="0" width="696" height="548" frameX="-1" frameY="-120" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10046" x="2655" y="548" width="616" height="562" frameX="0" frameY="-106" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10047" x="2266" y="1110" width="604" height="462" frameX="0" frameY="-205" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10048" x="2266" y="1572" width="625" height="482" frameX="0" frameY="-186" frameWidth="727" frameHeight="719" />
+	
+	
+	
+	<SubTexture name="Intro instance 10049" x="2105" y="2054" width="604" height="622" frameX="0" frameY="-45" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10050" x="2105" y="2054" width="604" height="622" frameX="0" frameY="-45" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10051" x="2105" y="2054" width="604" height="622" frameX="0" frameY="-45" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10052" x="2105" y="2054" width="604" height="622" frameX="0" frameY="-45" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10053" x="2105" y="2054" width="604" height="622" frameX="0" frameY="-45" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10054" x="2105" y="2054" width="604" height="622" frameX="0" frameY="-45" frameWidth="727" frameHeight="719" />
+	
+	
+	
+	<SubTexture name="Intro instance 10055" x="2891" y="1110" width="439" height="495" frameX="-100" frameY="-164" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10056" x="2891" y="1605" width="476" height="499" frameX="-100" frameY="-166" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10057" x="2891" y="1605" width="476" height="499" frameX="-100" frameY="-166" frameWidth="727" frameHeight="719" />
+	
+	
+	<SubTexture name="Intro instance 10058" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10059" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10060" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10061" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10062" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10063" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10064" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10065" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10066" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10067" x="2709" y="2104" width="509" height="514" frameX="-101" frameY="-167" frameWidth="727" frameHeight="719" />
+	
+	
+	
+	<SubTexture name="Intro instance 10068" x="450" y="2618" width="394" height="491" frameX="-101" frameY="-168" frameWidth="727" frameHeight="719" />
+	<SubTexture name="Intro instance 10069" x="450" y="2618" width="394" height="491" frameX="-101" frameY="-168" frameWidth="727" frameHeight="719" />
+</TextureAtlas>
