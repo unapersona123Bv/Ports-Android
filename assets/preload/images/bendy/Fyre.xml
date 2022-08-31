@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fyre.png">
+	
+	
+	<SubTexture name="Penis instance 10000" x="5" y="5" width="647" height="312" frameX="-1" frameY="-25" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10001" x="657" y="5" width="647" height="307" frameX="0" frameY="-32" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10002" x="1309" y="5" width="648" height="331" frameX="0" frameY="-10" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10003" x="5" y="341" width="647" height="327" frameX="-2" frameY="-15" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10004" x="657" y="341" width="647" height="327" frameX="-1" frameY="-10" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10005" x="1309" y="341" width="647" height="323" frameX="0" frameY="-16" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10006" x="5" y="674" width="648" height="334" frameX="0" frameY="-7" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10007" x="658" y="674" width="647" height="342" frameX="-2" frameY="0" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10008" x="1310" y="674" width="647" height="314" frameX="-1" frameY="-24" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10009" x="5" y="1021" width="647" height="306" frameX="0" frameY="-33" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10010" x="657" y="1021" width="648" height="323" frameX="0" frameY="-19" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10011" x="1311" y="1021" width="647" height="329" frameX="-2" frameY="-14" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10012" x="5" y="1355" width="647" height="324" frameX="-1" frameY="-14" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10013" x="657" y="1355" width="647" height="327" frameX="0" frameY="-12" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10014" x="1309" y="1355" width="648" height="333" frameX="0" frameY="-8" frameWidth="648" frameHeight="342" />
+	<SubTexture name="Penis instance 10015" x="5" y="1694" width="647" height="337" frameX="-2" frameY="-5" frameWidth="648" frameHeight="342" />
+</TextureAtlas>
